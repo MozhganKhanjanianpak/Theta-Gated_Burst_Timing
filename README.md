@@ -1,0 +1,1 @@
+This repository contains the simulation and analysis codes accompanying the manuscript “Theta-Gated Burst Timing and Competition in Modular Excitatory–Inhibitory Networks”, which is currently under review.
