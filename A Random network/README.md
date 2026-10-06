@@ -30,7 +30,7 @@ The main parameters used in the simulations include:
 * **Inhibitory synaptic weight:** `W_I = -4`
 * **Excitatory synaptic lifetime:** `T_E = 5`
 * **Inhibitory synaptic lifetime:** `T_I = 7`
-* **Propagation delay:** `D = 8`
+* **Activation threshold:** `D = 8`
 * **Theta period:** `T_theta = 200 ms`
 
 The external activation probability is time-dependent and follows
