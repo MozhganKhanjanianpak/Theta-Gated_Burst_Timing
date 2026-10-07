@@ -41,7 +41,7 @@ using namespace std;
 
 #define F       0.4         // Spatial concentration of external input
 
-#define alpha   0.5         // Ambiguity parameter in [0, 1]
+#define alpha   1         // Ambiguity parameter in [0, 1]
 // For a single target, set alpha = 0.
 
 #define tmax    25000       // Number of simulation time steps
